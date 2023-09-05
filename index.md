@@ -75,10 +75,9 @@ Email: baotong@smail.nju.edu.cn
   
 * The 60th Anniversary of X-Ray Astronomy: X-ray Astronomy in the Time-domain & Multi-messenger Era, Beijing, China, 2022. Title: "Searching for Quasi-periodic Oscillations in Active Galactic Nuclei of the Chandra Deep Field South" (Talk)
 
+* 2021-2022 Academic Annual Meeting of Jiangsu Astronomical Society, Nanjing, China, 2022. Title: "Periodic X-ray sources: Diagnosing dynamical origin of exotic binaries in the massive globular cluster 47 Tucanae" (Talk)
   
 * The 4th X-ray binary Multi-Band research Symposium, Kunming, China, 2021. Title: "Periodic X-ray sources: Diagnosing dynamical origin of exotic binaries in the massive globular cluster 47 Tucanae" (Talk)
-
-* 2021-2022 Academic Annual Meeting of Jiangsu Astronomical Society, Nanjing, China, 2022. Title: "Periodic X-ray sources: Diagnosing dynamical origin of exotic binaries in the massive globular cluster 47 Tucanae" (Talk)
 	
 * The 3rd X-ray binary Multi-Band research Symposium, Jinan, China, 2020. Title: "Periodic X-ray Sources in dense environment" (Talk)
 
