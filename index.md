@@ -1,7 +1,7 @@
 
 # Tong Bao
-![Profile](https://github.com/baotong6/baotong6.github.io/blob/main/thumbnail.png)
-
+<!--![Profile](https://github.com/baotong6/baotong6.github.io/blob/main/thumbnail.png)-->
+<img src="https://github.com/baotong6/baotong6.github.io/blob/main/thumbnail.png" alt="" style="zoom:67%;" />
 ## About me
 
 > I am a fifth-year (final year) PhD. candidate at  Nanjing University under the supervision of Prof. Zhiyuan Li (2019-2024 expected). Before that, I achieved the B.S. degree from Nanjing University.
