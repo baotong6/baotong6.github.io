@@ -44,7 +44,6 @@ Email: baotong@smail.nju.edu.cn
 *  Stellar dynamics in dense environments
 
 
-
 ## Publications
 [(ADS Library)](https://ui.adsabs.harvard.edu/public-libraries/K1kOb_WdRjqt3FJZWBtBWw)  
 
@@ -85,9 +84,8 @@ Email: baotong@smail.nju.edu.cn
 
 ## Teaching and Mentoring
 
-* 2019-2022: Teaching assistants for the course ”An Introduction to X-ray Astronomy”
+* 2019-2022: [Teaching assistants](https://github.com/baotong6/xray\_astronomy) for the course ”An Introduction to X-ray Astronomy”
 
-* 2016-2019: Peer mentor of School of Astronomy and Space Science, Nanjing University
 
 ## Scientific Collaborations and Outreach
 
@@ -102,13 +100,5 @@ Email: baotong@smail.nju.edu.cn
 * The annual scholarship of National Astronomical Observatory, Chinese Academy of Sciences, 2017
 * The second-Class People's Scholarship, 2017
 * The Third-Class People's Scholarship, 2016
-
-## Public Outreach 
-
-* Volunteer for the Summer Camp for High School Students at the School of Astronomy and Space Science, 2022
-* Volunteer for Undergraduate Summer Camp at the School of Astronomy and Space Science, 2021
-* Speaker for astronomy lectures in Zuo Dijiang Observatory Open Day Activities, 2020
-* Volunteer for Zuo Dijiang Observatory Open Day Activities, 2023
-* Volunteer for "Astronomical Night for Public" Activity of Zuo Dijiang Observatory, Nanjing university, 2021-2023
 
 
