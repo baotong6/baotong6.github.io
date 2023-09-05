@@ -1,5 +1,6 @@
 
 # Tong Bao
+![Profile](https://github.com/baotong6/baotong6.github.io/blob/main/thumbnail.png)
 
 ## About me
 
