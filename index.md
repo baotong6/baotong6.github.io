@@ -10,7 +10,9 @@ Email: baotong@smail.nju.edu.cn
 
 [[CV]](https://baotong6.github.io)
 [[Google Scholar]](https://scholar.google.com/citations?user=8Fr_PVwAAAAJ&hl=zh-CN&oi=sra)
-[[Github]](https://github.com/baotong6)
+[[Github]](https://github.com/baotong6)  
+[ORCID:0000-0002-5082-5049](https://orcid.org/my-orcid?orcid=0000-0002-5082-5049)
+
 ## About me
 
 > I am a fifth-year (final year) PhD. candidate at  Nanjing University under the supervision of Prof. Zhiyuan Li (2019-2024 expected). Before that, I achieved the B.S. degree from Nanjing University.
@@ -33,6 +35,8 @@ Email: baotong@smail.nju.edu.cn
 
 
 ## Publications
+[(ADS Library)](https://ui.adsabs.harvard.edu/public-libraries/K1kOb_WdRjqt3FJZWBtBWw)  
+
 [1] **Bao, T.**, Li, Z., & Cheng, Z. 2023, MNRAS, 521, 4257, “Periodic X-ray sources in the massive globular cluster 47 Tucanae: Evidence for dynamically formed cataclysmic variables” [[ADS]](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.4257B)
 
 [2] **Bao, T.**, & Li, Z. 2022, MNRAS, 509, 3504, “Searching for quasi-periodic oscillations in active galactic nuclei of the Chandra Deep Field South” [[ADS]](https://ui.adsabs.harvard.edu/abs/2022MNRAS.509.3504B/abstract)
