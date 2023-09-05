@@ -12,12 +12,11 @@
     The left one
   	</div>
 </left>
-  PhD. Candidate,
-  [School of Astronomy and Space Science](https://astronomy.nju.edu.cn/),  
-  Room 430,
-  [Nanjing university](https://www.nju.edu.cn/),  
-  163 Xianlin Ave, Nanjing, China  
-  Email: baotong@smail.nju.edu.cn
+PhD. Candidate,  
+[School of Astronomy and Space Science](https://astronomy.nju.edu.cn/), Room 430,  
+[Nanjing university](https://www.nju.edu.cn/),  
+163 Xianlin Ave, Nanjing, China  
+Email: baotong@smail.nju.edu.cn
 
 
 [[CV]](https://baotong6.github.io)
