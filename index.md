@@ -73,16 +73,16 @@ Email: baotong@smail.nju.edu.cn
 
 ## Teaching and Mentoring
 
-• 2019-2022: Teaching assistants for the course ”An Introduction to X-ray Astronomy”
+* 2019-2022: Teaching assistants for the course ”An Introduction to X-ray Astronomy”
 
-• 2016-2019: Peer mentor of School of Astronomy and Space Science, Nanjing University
+* 2016-2019: Peer mentor of School of Astronomy and Space Science, Nanjing University
 
 ## Scientific Collaborations and Outreach
 
-Member of the The High Energy X-ray Probe (HEX-P) Collaboration （2023-present)  
-Member of Magnetic CV collaboration (2023-present)  
-Visiting the Columbia Astrophysics Laboratory at Columbia University, New York. (April 2023)  
-Research Assistant in the Columbia Astrophysics Laboratory at Columbia University, New York. (June 2018 - September 2018)
+* Member of the The High Energy X-ray Probe (HEX-P) Collaboration （2023-present)  
+* Member of Magnetic CV collaboration (2023-present)  
+* Visiting the Columbia Astrophysics Laboratory at Columbia University, New York. (April 2023)  
+* Research Assistant in the Columbia Astrophysics Laboratory at Columbia University, New York. (June 2018 - September 2018)
 
 ## Awards
 
