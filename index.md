@@ -1,5 +1,6 @@
 
-## Tong Bao <img src="https://github.com/baotong6/baotong6.github.io/blob/main/thumbnail.png" alt="profile" style="zoom:10%;" align="left" />
+## Tong Bao 
+<img src="https://github.com/baotong6/baotong6.github.io/blob/main/thumbnail.png" alt="profile" style="zoom:10%;" align="left" />
 PhD. Candidate,
 [School of Astronomy and Space Science](https://astronomy.nju.edu.cn/),  
 Room 430,
