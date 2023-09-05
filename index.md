@@ -1,6 +1,6 @@
 
 ## Tong Bao （鲍通）
-<center>
+<left>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
     src="thumbnail.png" width = "20%" alt=""/>
@@ -11,7 +11,7 @@
     padding: 2px;">
     The left one
   	</div>
-</center>
+</left>
 
 
   PhD. Candidate,
