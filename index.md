@@ -2,40 +2,33 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+# Tong Bao
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## About me
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
+> I am a fifth-year (final year) PhD. candidate at  Nanjing University under the supervision of Prof. Zhiyuan Li (2019-2024 expected). Before that, I achieved the B.S. degree from Nanjing University.
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> 
+>
+> My research interest primarily lie in the (quasi-) periodic variations of X-ray sources, such as X-ray binaries, cataclysmic variables, AGNs. I look for the time-varying characteristics of these objects and study their populations through X-ray observations.
+>
+> I am also interested in stellar dynamics in dense envrionments (e.g., Globular clusters). I study effects of cluster environment on formation and evolution of close binaries based on observational evidence.
+>
+> 
+>
+> In addition to astrophysical research, I am also interested in development and deployment of methods in data-intensive research, particularly in the time domains.
+
+## Research interests
+
+
+
+
 
 ### Header 3
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
 #### Header 4
 
