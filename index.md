@@ -70,25 +70,27 @@ Email: baotong@smail.nju.edu.cn
 
 <!--[Link to another page](./another-page.html).-->
 
-### Teaching and Mentoring
+## Teaching and Mentoring
 
-• 2019-2022: Teaching assistants of course ”An Introduction to X-ray Astronomy”
+• 2019-2022: Teaching assistants for the course ”An Introduction to X-ray Astronomy”
 
 • 2016-2019: Peer mentor of School of Astronomy and Space Science, Nanjing University
 
-### Scientific Collaborations
+## Scientific Collaborations and Outreach
 
 Member of the The High Energy X-ray Probe (HEX-P) Collaboration （2023-present)
 Member of Magnetic CV collaboration (2023-present)
+Visiting the Columbia Astrophysics Laboratory at Columbia University, New York. (April 2023)
+Research Assistant in the Columbia Astrophysics Laboratory at Columbia University, New York. (June 2018 - September 2018)
 
-### Awards
+## Awards
 
 * The Principal Special Scholarship for PhD students of Nanjing University, 2019
 * The annual scholarship of National Astronomical Observatory, Chinese Academy of Sciences, 2017
 * The second-Class People's Scholarship, 2017
 * The Third-Class People's Scholarship, 2016
 
-### Public Outreach 
+## Public Outreach 
 
 * Volunteer for the Summer Camp for High School Students at the School of Astronomy and Space Science, 2022
 * Volunteer for Undergraduate Summer Camp at the School of Astronomy and Space Science, 2021
@@ -97,23 +99,3 @@ Member of Magnetic CV collaboration (2023-present)
 * Volunteer for "Astronomical Night for Public" Activity of Zuo Dijiang Observatory, Nanjing university, 2021-2023
 
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
