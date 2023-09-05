@@ -50,7 +50,7 @@ Email: baotong@smail.nju.edu.cn
 
 ## Seminars and Conference Oral Presentations
 
-* **Department Colloquium** Columbia University, Department of Physics, New York, NY, 2023. Title: "Periodicities in X-ray sources: diagnosing the nature and evolution for exotic binaries in dense environment"
+* **Department Colloquium**, Columbia University, Department of Physics, New York, NY, 2023. Title: "Periodicities in X-ray sources: diagnosing the nature and evolution for exotic binaries in dense environment"
 
 * The 20th Meeting of the High Energy Astrophysics Division of the AAS, Waikōloa, Hawaii, 2023. Title: "Periodic X-ray sources in globular clusters : diagnosing dynamical formation and evolution of cataclysmic variables" (Poster)
 	
