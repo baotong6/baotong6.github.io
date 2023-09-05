@@ -19,7 +19,7 @@ PhD. Candidate,
 Email: baotong@smail.nju.edu.cn
 
 
-[[CV]](https://baotong6.github.io)
+[[CV]](bao_cv.pdf)
 [[Google Scholar]](https://scholar.google.com/citations?user=8Fr_PVwAAAAJ&hl=zh-CN&oi=sra)
 [[Github]](https://github.com/baotong6)  
 [ORCID:0000-0002-5082-5049](https://orcid.org/my-orcid?orcid=0000-0002-5082-5049)
