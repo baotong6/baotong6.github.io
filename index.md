@@ -22,7 +22,9 @@ layout: default
 
 ## Research interests
 
+$$T_{max}$$
 
+[ADS](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.4257B)
 
 
 
@@ -34,7 +36,15 @@ layout: default
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   <!--This is an unordered list following a header.-->
+
+<img src="https://github.com/baotong6/baotong6.github.io/blob/main/thumbnail.png" alt="" style="zoom:20%” align="left">
+
+
+
+![123](https://github.com/baotong6/baotong6.github.io/blob/main/thumbnail.png)
+
+
 
 ##### Header 5
 
@@ -87,7 +97,19 @@ layout: default
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="Octocat" style="zoom:67%;" aligh="lower right" />
+
+
+
+<img src="https://github.com/baotong6/baotong6.github.io/blob/12de508d583d05bbf759b21c3ab47296b8b80d1e/thumbnail.png" alt="profile" style="zoom:10%;" align="left" />
+
+![123](https://github.com/baotong6/baotong6.github.io/blob/main/thumbnail.png)
+
+
+
+
+
+<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="Octocat" alt="profile" style="zoom:50%;" align="left" />
 
 ### Large image
 
