@@ -70,9 +70,12 @@ Email: baotong@smail.nju.edu.cn
 * Chandra Frontiers in Time-Domain Science, 2020. Title: "Periodic X-ray Sources in the Galactic Center/Bulge -- Application of the Gregory-Loredo Algorithm" (Talk)
 
 * Structure, Formation, and Evolution of Star Clusters, Zhuhai, China, 2023. Title: "Periodic X-ray sources in globular clusters : diagnosing dynamical formation and evolution of cataclysmic variables" (Talk & Poster)
+
+* Research on the Variations of Active Galactic Nuclei, Xiamen, China, 2023. Title: "Searching for Quasi-periodic Oscillations in Active Galactic Nuclei of the Chandra Deep Field South" (Talk)
   
 * The 60th Anniversary of X-Ray Astronomy: X-ray Astronomy in the Time-domain & Multi-messenger Era, Beijing, China, 2022. Title: "Searching for Quasi-periodic Oscillations in Active Galactic Nuclei of the Chandra Deep Field South" (Talk)
-	
+
+  
 * The 4th X-ray binary Multi-Band research Symposium, Kunming, China, 2021. Title: "Periodic X-ray sources: Diagnosing dynamical origin of exotic binaries in the massive globular cluster 47 Tucanae" (Talk)
 
 * 2021-2022 Academic Annual Meeting of Jiangsu Astronomical Society, Nanjing, China, 2022. Title: "Periodic X-ray sources: Diagnosing dynamical origin of exotic binaries in the massive globular cluster 47 Tucanae" (Talk)
