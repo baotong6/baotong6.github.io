@@ -91,7 +91,7 @@ Email: baotong@smail.nju.edu.cn
 
 * Member of the The High Energy X-ray Probe (HEX-P) Collaboration （2023-present)  
 * Member of Magnetic CV collaboration (2023-present)  
-* Visiting the Columbia Astrophysics Laboratory at Columbia University, New York. (April 2023)  
+* Visitor in the Columbia Astrophysics Laboratory at Columbia University, New York. (April 2023)  
 * Research Assistant in the Columbia Astrophysics Laboratory at Columbia University, New York. (June 2018 - September 2018)
 
 ## Awards
