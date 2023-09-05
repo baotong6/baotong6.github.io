@@ -1,7 +1,10 @@
 
-# Tong Bao
-<!--![Profile](https://github.com/baotong6/baotong6.github.io/blob/main/thumbnail.png)-->
-<img src="https://github.com/baotong6/baotong6.github.io/blob/main/thumbnail.png" alt="" style="zoom:67%;" />
+## Tong Bao <img src="https://github.com/baotong6/baotong6.github.io/blob/main/thumbnail.png" alt="" style="zoom:20% align="left";" />
+[School of Astronomy and Space Science](https://astronomy.nju.edu.cn/)
+
+[Nanjing university](https://www.nju.edu.cn/)
+
+[Google Scholar](https://scholar.google.com/citations?user=8Fr_PVwAAAAJ&hl=zh-CN&oi=sra)
 ## About me
 
 > I am a fifth-year (final year) PhD. candidate at  Nanjing University under the supervision of Prof. Zhiyuan Li (2019-2024 expected). Before that, I achieved the B.S. degree from Nanjing University.
