@@ -1,6 +1,6 @@
 
 ## Tong Bao 
-<img src="thumbnail.png" alt="profile" style="zoom:30%;" align="left" />  
+<img src="thumbnail.png" alt="profile" style="zoom:25%;" align="left" />  
 PhD. Candidate,
 [School of Astronomy and Space Science](https://astronomy.nju.edu.cn/),  
 Room 430,
