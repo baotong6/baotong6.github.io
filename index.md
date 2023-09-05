@@ -12,8 +12,6 @@
     The left one
   	</div>
 </left>
-
-
   PhD. Candidate,
   [School of Astronomy and Space Science](https://astronomy.nju.edu.cn/),  
   Room 430,
