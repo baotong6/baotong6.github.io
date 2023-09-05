@@ -19,7 +19,7 @@ Email: baotong@smail.nju.edu.cn
 >
 > 
 >
-> My research interest primarily lie in the (quasi-) periodic variations of X-ray sources, such as X-ray binaries, cataclysmic variables, AGNs. I look for the time-varying characteristics of these objects and study their populations through X-ray observations. I am also interested in stellar dynamics in dense envrionments (e.g., Globular clusters). I study effects of cluster environment on formation and evolution of close binaries based on observational evidence.
+> My research interest primarily lie in the (quasi-) **periodic variations** of X-ray sources, such as X-ray binaries, cataclysmic variables, AGNs. I look for the time-varying characteristics of these objects and study their populations through X-ray observations. I am also interested in **stellar dynamics in dense envrionments** (e.g., Globular clusters). I study effects of cluster environment on formation and evolution of close binaries based on observational evidence.
 >
 > 
 >
