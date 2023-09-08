@@ -27,10 +27,10 @@ Email: baotong@smail.nju.edu.cn
 ## About Me
 
 > I am a fifth-year (final year) PhD. candidate at  Nanjing University under the supervision of Prof. Zhiyuan Li (2019-2024 expected). Before that, I achieved the B.S. degree from Nanjing University.
->
+> My research interest primarily lie in the X-ray population in globular clusters and the Galactic center. The main research is carried out in periodic variations of X-ray sources, such as X-ray binaries, cataclysmic variables. 
+Using their periodicity as the tracer, I study effects of cluster environment on formation and evolution of close binaries and more importantly, the origin of nuclear star cluster and the link to Globular clusters.
+Besides, I also work on the time-varying characteristic of active galactic nuclei, such as the (quasi-) periodic oscillations and eruptions.
 > 
->
-> My research interest primarily lie in the (quasi-) **periodic variations** of X-ray sources, such as X-ray binaries, cataclysmic variables, AGNs. I look for the time-varying characteristics of these objects and study their populations through X-ray observations. I am also interested in **stellar dynamics in dense envrionments** (e.g., Globular clusters). I study effects of cluster environment on formation and evolution of close binaries based on observational evidence.
 >
 > 
 >
