@@ -57,6 +57,7 @@ Besides, I also work on the time-varying characteristic of active galactic nucle
 
 [4] Yu, Z.-l., Xu, X.-j., Li, X.-D., **Bao, T.**, et al. 2018, ApJ, 853, 182, “An Empirical Correlation of $T_{max} -M_{WD}$ of Dwarf Novae and the Average White Dwarf Mass in Cataclysmic Variables in the Galactic Bulge” [[ADS]](https://ui.adsabs.harvard.edu/abs/2018ApJ...853..182Y)
 
+[5] **Bao. T.**, Li, Z., Cheng, Z., Belloni, Diogo. 2023, "A Chandra Survey of Milky Way Globular Clusters -- IV. Periodic X-ray sources" (submitted to MNRAS).
 
 ## Seminars and Conference Oral Presentations
 
@@ -89,8 +90,8 @@ Besides, I also work on the time-varying characteristic of active galactic nucle
 
 ## Scientific Collaborations and Outreach
 
-* Member of the The High Energy X-ray Probe (HEX-P) Collaboration （2023-present)  
-* Member of Magnetic CV collaboration (2023-present)  
+* Member of the The High Energy X-ray Probe (HEX-P) Collaboration （2023-)  
+* Member of Magnetic CV collaboration (2023-)  
 * Visitor in the Columbia Astrophysics Laboratory at Columbia University, New York. (April 2023)  
 * Research Assistant in the Columbia Astrophysics Laboratory at Columbia University, New York. (June 2018 - September 2018)
 
