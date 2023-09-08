@@ -37,11 +37,13 @@ Besides, I also work on the time-varying characteristic of active galactic nucle
 > In addition to astrophysical research, I am also interested in development and deployment of methods in data-intensive research, particularly in the time domains.
 
 ## Research Interests
-*  Periodic variations of X-ray sources (X-ray binaries, cataclysmic variables, etc) 
+*  Stellar populations and dynamics in Globular clusters
+
+*  Periodic variations of X-ray sources (X-ray binaries, cataclysmic variables, etc)
 
 *  Quasi-periodic oscillations/eruptions of AGNs
 
-*  Stellar dynamics in dense environments
+*  Origins and X-ray populations of nuclear star clusters in the Galactic center
 
 
 ## Publications
