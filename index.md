@@ -61,6 +61,8 @@ Besides, I also work on the time-varying characteristic of active galactic nucle
 
 [5] **Bao. T.**, Li, Z., Cheng, Z., Belloni, Diogo. 2023, "A Chandra Survey of Milky Way Globular Clusters -- IV. Periodic X-ray sources" (submitted to MNRAS).
 
+[6] Mori, K., Ponti, G., Bachetti, M., Bodaghee, A., Grindlay, J., Hong, J., Kuznetsovam, E., Mandel, S., and Rodriguez, A., Stel, G., Zhang, S., **Bao, T.**, et al. 2023, “The high energy x-ray probe (hex-p): resolving the nature of sgr a* ﬂares, compact object binaries and diﬀuse x-ray emission in the galactic center and beyond”, arXiv:2311.04854
+
 ## Seminars and Conference Oral Presentations
 
 * **Department Colloquium**, Columbia University, Department of Physics, New York, NY, 2023. Title: "Periodicities in X-ray sources: diagnosing the nature and evolution for exotic binaries in dense environment"
@@ -84,6 +86,10 @@ Besides, I also work on the time-varying characteristic of active galactic nucle
 * The 3rd X-ray binary Multi-Band research Symposium, Jinan, China, 2020. Title: "Periodic X-ray Sources in dense environment" (Talk)
 
 <!--[Link to another page](./another-page.html).-->
+
+## Fundings
+
+The leader of project: “ The search and statistical analysis of Periodic X-ray Sources in Globular Clusters ”, funded by the Postgraduate Research & Practice Innovation Program of Jiangsu Province. The project is granted with an amount of 15,000 RMB, under project number KYCX22_0106.
 
 ## Teaching and Mentoring
 
