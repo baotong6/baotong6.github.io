@@ -56,7 +56,7 @@ Besides, I also work on the time-varying characteristic of active galactic nucle
 
 [3] **Bao, T.**, & Li, Z. 2020, MNRAS, 498, 3513, “Periodic X-ray sources in the Galactic bulge: application of the Gregory-Loredo algorithm” [[ADS]](https://ui.adsabs.harvard.edu/abs/2020MNRAS.498.3513B/abstract)
 
-[4] **Bao. T.**, Li, Z., Cheng, Z., Belloni, Diogo. 2023, "A Chandra Survey of Milky Way Globular Clusters -- IV. Periodic X-ray sources" [[ADS]] (https://ui.adsabs.harvard.edu/abs/2023MNRAS.tmp.3513B/abstract) (accepted to MNRAS).
+[4] **Bao. T.**, Li, Z., Cheng, Z., Belloni, Diogo. 2023, "A Chandra Survey of Milky Way Globular Clusters -- IV. Periodic X-ray sources" [[ADS]](https://ui.adsabs.harvard.edu/abs/2023MNRAS.tmp.3513B/abstract) (accepted to MNRAS).
 
 [5] Yu, Z.-l., Xu, X.-j., Li, X.-D., **Bao, T.**, et al. 2018, ApJ, 853, 182, “An Empirical Correlation of $T_{max} -M_{WD}$ of Dwarf Novae and the Average White Dwarf Mass in Cataclysmic Variables in the Galactic Bulge” [[ADS]](https://ui.adsabs.harvard.edu/abs/2018ApJ...853..182Y)
 
