@@ -56,11 +56,15 @@ Besides, I also work on the time-varying characteristic of active galactic nucle
 
 [3] **Bao, T.**, & Li, Z. 2020, MNRAS, 498, 3513, “Periodic X-ray sources in the Galactic bulge: application of the Gregory-Loredo algorithm” [[ADS]](https://ui.adsabs.harvard.edu/abs/2020MNRAS.498.3513B/abstract)
 
-[4] **Bao. T.**, Li, Z., Cheng, Z., Belloni, Diogo. 2023, "A Chandra Survey of Milky Way Globular Clusters -- IV. Periodic X-ray sources" [[ADS]](https://ui.adsabs.harvard.edu/abs/2023MNRAS.tmp.3513B/abstract) (accepted to MNRAS).
+[4] **Bao. T.**, Li, Z., Cheng, Z., Belloni, Diogo. 2024, MNRAS, 527, 7173, "A Chandra Survey of Milky Way Globular Clusters -- IV. Periodic X-ray sources" [[ADS]](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.7173B/abstract).
 
-[5] Yu, Z.-l., Xu, X.-j., Li, X.-D., **Bao, T.**, et al. 2018, ApJ, 853, 182, “An Empirical Correlation of $T_{max} -M_{WD}$ of Dwarf Novae and the Average White Dwarf Mass in Cataclysmic Variables in the Galactic Bulge” [[ADS]](https://ui.adsabs.harvard.edu/abs/2018ApJ...853..182Y)
+[5] Zhang. J, **Bao. T.**, Li, Z., 2024, ``A Chandra Search for Periodic X-ray Sources in the Bulge of M31'', accepted by MNRAS.
 
-[6] Mori, K., Ponti, G., Bachetti, M., Bodaghee, A., Grindlay, J., Hong, J., Kuznetsovam, E., Mandel, S., and Rodriguez, A., Stel, G., Zhang, S., **Bao, T.**, et al. 2023, “The high energy x-ray probe (hex-p): resolving the nature of sgr a* ﬂares, compact object binaries and diﬀuse x-ray emission in the galactic center and beyond”, arXiv:2311.04854 [[ADS]](https://ui.adsabs.harvard.edu/abs/2023arXiv231104854M/abstract)
+[6] Mondal, S., Ponti, G., **Bao, T.**, et al., 2024, "Periodicity from X-ray sources within the inner Galactic disk", accepted by A\&A [[ADS]](https://ui.adsabs.harvard.edu/abs/2024arXiv240314480M/abstract).
+
+[7] Yu, Z.-l., Xu, X.-j., Li, X.-D., **Bao, T.**, et al. 2018, ApJ, 853, 182, “An Empirical Correlation of $T_{max} -M_{WD}$ of Dwarf Novae and the Average White Dwarf Mass in Cataclysmic Variables in the Galactic Bulge” [[ADS]](https://ui.adsabs.harvard.edu/abs/2018ApJ...853..182Y)
+
+[8] Mori, K., Ponti, G., Bachetti, M., Bodaghee, A., Grindlay, J., Hong, J., Kuznetsovam, E., Mandel, S., and Rodriguez, A., Stel, G., Zhang, S., **Bao, T.**, et al. 2023, “The high energy x-ray probe (hex-p): resolving the nature of sgr a* ﬂares, compact object binaries and diﬀuse x-ray emission in the galactic center and beyond”, arXiv:2311.04854 [[ADS]](https://ui.adsabs.harvard.edu/abs/2023arXiv231104854M/abstract)
 
 
 ## Seminars and Conference Oral Presentations
