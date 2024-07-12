@@ -12,7 +12,7 @@
     The left one
   	</div>
 </left>
-PhD. Candidate,  
+PhD.,  
 [School of Astronomy and Space Science](https://astronomy.nju.edu.cn/), Room 430,  
 [Nanjing university](https://www.nju.edu.cn/),  
 163 Xianlin Ave, Nanjing, China  
@@ -58,13 +58,15 @@ Besides, I also work on the time-varying characteristic of active galactic nucle
 
 [4] **Bao. T.**, Li, Z., Cheng, Z., Belloni, Diogo. 2024, MNRAS, 527, 7173, "A Chandra Survey of Milky Way Globular Clusters -- IV. Periodic X-ray sources" [[ADS]](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.7173B/abstract).
 
-[5] Zhang. J, **Bao. T.**, Li, Z., 2024, ``A Chandra Search for Periodic X-ray Sources in the Bulge of M31'', accepted by MNRAS.
+[5] Zhang. J, **Bao. T.**, Li, Z., 2024, 530, 2096,  ``A Chandra Search for Periodic X-ray Sources in the Bulge of M31'', [[ADS]](https://ui.adsabs.harvard.edu/abs/2024MNRAS.530.2096Z/abstract)
 
-[6] Mondal, S., Ponti, G., **Bao, T.**, et al., 2024, "Periodicity from X-ray sources within the inner Galactic disk", accepted by A\&A [[ADS]](https://ui.adsabs.harvard.edu/abs/2024arXiv240314480M/abstract).
+[6] Mondal, S., Ponti, G., **Bao, T.**, et al., 2024, "Periodicity from X-ray sources within the inner Galactic disk", A\&A, 686, 125 [[ADS]](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A.125M/abstract).
 
-[7] Yu, Z.-l., Xu, X.-j., Li, X.-D., **Bao, T.**, et al. 2018, ApJ, 853, 182, “An Empirical Correlation of $T_{max} -M_{WD}$ of Dwarf Novae and the Average White Dwarf Mass in Cataclysmic Variables in the Galactic Bulge” [[ADS]](https://ui.adsabs.harvard.edu/abs/2018ApJ...853..182Y)
+[7] Mondal, S., Ponti, G., Filor, L., **Bao, T.**, et al., 2024, "XMM-Newton and NuSTAR discovery of a likely IP candidate XMMU J173029.8-330920 in the Galactic Disk", accepted by A\&A. [[ADS]](https://ui.adsabs.harvard.edu/abs/2024arXiv240703025M/abstract)
 
-[8] Mori, K., Ponti, G., Bachetti, M., Bodaghee, A., Grindlay, J., Hong, J., Kuznetsovam, E., Mandel, S., and Rodriguez, A., Stel, G., Zhang, S., **Bao, T.**, et al. 2023, “The high energy x-ray probe (hex-p): resolving the nature of sgr a* ﬂares, compact object binaries and diﬀuse x-ray emission in the galactic center and beyond”, arXiv:2311.04854 [[ADS]](https://ui.adsabs.harvard.edu/abs/2023arXiv231104854M/abstract)
+[8] Yu, Z.-l., Xu, X.-j., Li, X.-D., **Bao, T.**, et al. 2018, ApJ, 853, 182, “An Empirical Correlation of $T_{max} -M_{WD}$ of Dwarf Novae and the Average White Dwarf Mass in Cataclysmic Variables in the Galactic Bulge” [[ADS]](https://ui.adsabs.harvard.edu/abs/2018ApJ...853..182Y)
+
+[9] Mori, K., Ponti, G., Bachetti, M., Bodaghee, A., Grindlay, J., Hong, J., Kuznetsovam, E., Mandel, S., and Rodriguez, A., Stel, G., Zhang, S., **Bao, T.**, et al. 2023, “The high energy x-ray probe (hex-p): resolving the nature of sgr a* ﬂares, compact object binaries and diﬀuse x-ray emission in the galactic center and beyond”, arXiv:2311.04854 [[ADS]](https://ui.adsabs.harvard.edu/abs/2023arXiv231104854M/abstract)
 
 
 ## Seminars and Conference Oral Presentations
