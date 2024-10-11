@@ -12,6 +12,11 @@
     The left one
   	</div>
 </left>
+
+Postdoc,
+Via Emilio Bianchi, 46
+23807 Merate, LC, Italy
+
 PhD.,  
 [School of Astronomy and Space Science](https://astronomy.nju.edu.cn/), Room 430,  
 [Nanjing university](https://www.nju.edu.cn/),  
@@ -26,7 +31,8 @@ Email: baotong@smail.nju.edu.cn
 
 ## About Me
 
-> I am a fifth-year (final year) PhD. candidate at  Nanjing University under the supervision of Prof. Zhiyuan Li (2019-2024 expected). Before that, I achieved the B.S. degree from Nanjing University.
+> I am now a Postdoc of I.N.A.F-Merate, Italy, collaborated with Dr. Gabriele Ponti.
+> Before that I got my PhD at  Nanjing University under the supervision of Prof. Zhiyuan Li (2019-2024). Before that, I achieved the B.S. degree from Nanjing University.
 > My research interest primarily lie in the X-ray population in globular clusters and the Galactic center. The main research is carried out in periodic variations of X-ray sources, such as X-ray binaries, cataclysmic variables. 
 Using their periodicity as the tracer, I study effects of cluster environment on formation and evolution of close binaries and more importantly, the origin of nuclear star cluster and the link to Globular clusters.
 Besides, I also work on the time-varying characteristic of active galactic nuclei, such as the (quasi-) periodic oscillations and eruptions.
