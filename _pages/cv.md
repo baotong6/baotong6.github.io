@@ -1,64 +1,33 @@
 ---
-layout: archive
-title: "CV"
+layout: single
+title: "Curriculum Vitae"
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+<!-- 下载按钮 -->
+<div style="display:flex; justify-content:flex-end; margin-bottom:1em;">
+  <a href="{{ '/assets/files/TongCV.pdf' | relative_url }}" target="_blank" 
+     style="text-decoration:none; font-weight:bold; color:#fff; background:#007acc; padding:0.5em 1em; border-radius:4px;">
+    ⬇ Download CV
+  </a>
+</div>
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+<!-- PDF 预览 -->
+<div style="width:100%; max-width:900px; margin:0 auto; box-shadow:0 2px 10px rgba(0,0,0,0.1); border-radius:8px; overflow:hidden;">
+  <iframe src="{{ '/assets/files/TongCV.pdf' | relative_url }}" 
+          style="width:100%; height:calc(100vh - 150px); border:none;" 
+          frameborder="0"></iframe>
+</div>
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<script>
+  // 保证iframe高度自适应
+  const iframe = document.querySelector("iframe");
+  function resizeIframe() {
+    const topOffset = document.querySelector('header').offsetHeight + 40; // 留出header +按钮空间
+    iframe.style.height = (window.innerHeight - topOffset) + "px";
+  }
+  window.addEventListener("resize", resizeIframe);
+  resizeIframe();
+</script>

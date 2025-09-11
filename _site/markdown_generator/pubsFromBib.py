@@ -129,11 +129,11 @@ for pubsource in publist:
 
             md += "\nvenue: '" + html_escape(venue) + "'"
             
-            url = False
-            if "url" in b.keys():
-                if len(str(b["url"])) > 5:
-                    md += "\npaperurl: '" + b["url"] + "'"
-                    url = True
+            adsurl = False
+            if "adsurl" in b.keys():
+                if len(str(b["adsurl"])) > 5:
+                    md += "\npaperurl: '" + b["adsurl"] + "'"
+                    adsurl = True
 
             md += "\ncitation: '" + html_escape(citation) + "'"
 
@@ -144,8 +144,8 @@ for pubsource in publist:
             if note:
                 md += "\n" + html_escape(b["note"]) + "\n"
 
-            if url:
-                md += "\n[Access paper here](" + b["url"] + "){:target=\"_blank\"}\n" 
+            if adsurl:
+                md += "\n[Access paper here](" + b["adsurl"] + "){:target=\"_blank\"}\n" 
             else:
                 md += "\nUse [Google Scholar](https://scholar.google.com/scholar?q="+html.escape(clean_title.replace("-","+"))+"){:target=\"_blank\"} for full citation"
 
