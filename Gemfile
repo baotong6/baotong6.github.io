@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-
-# Minimal-Mistakes is a Jekyll theme that simplifies the process of creating a responsive,
-# elegant, and clean website with Jekyll.
+gem "jekyll", "~> 4.4"
 gem "minimal-mistakes-jekyll"
+gem "jekyll-feed"
+gem "jekyll-seo-tag"
