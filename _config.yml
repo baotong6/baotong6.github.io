@@ -1,41 +1,40 @@
-# Minimal Mistakes configuration for Tong Bao personal homepage
-
 title: "Tong Bao (鲍通)"
-description: "Postdoctoral researcher at INAF – Osservatorio Astronomico di Brera, Merate, Italy"
-baseurl: "" # for GitHub Pages, set to "" if using username.github.io
-url: "https://baotong6.github.io" # replace with your GitHub Pages URL
+description: "Postdoctoral researcher at INAF – Osservatorio Astronomico di Brera"
+baseurl: ""
+url: "https://baotong6.github.io"
 
+sass:
+  sass_dir: _sass
+  
 theme: minimal-mistakes-jekyll
 
-# Author info
+
 author:
   name: "Tong Bao"
   email: "baotong@smail.nju.edu.cn"
   avatar: "/thumbnail.png"
 
-# Social links
 social:
   github: "https://github.com/baotong6"
   google_scholar: "https://scholar.google.com/citations?user=8Fr_PVwAAAAJ&hl=zh-CN&oi=sra"
   orcid: "https://orcid.org/my-orcid?orcid=0000-0002-5082-5049"
 
-# Navigation
 nav:
   - title: "About"
     url: "/about/"
   - title: "Research"
     url: "/research/"
+  - title: "Projects"
+    url: "/projects/"
   - title: "Publications"
     url: "/publications/"
   - title: "CV"
     url: "/bao_cv.pdf"
 
-# Plugins
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Defaults
 defaults:
   -
     scope:
@@ -46,8 +45,6 @@ defaults:
       author: "Tong Bao"
       comments: false
 
-# Minimal Mistakes settings
 minimal_mistakes_skin: "personal"
 header_pages:
   - index.md
-  - about.md

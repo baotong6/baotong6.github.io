@@ -1,2 +1,5 @@
 source "https://rubygems.org"
-gemspec
+gem "jekyll", "~> 4.4"
+gem "minimal-mistakes-jekyll"
+gem "jekyll-feed"
+gem "jekyll-seo-tag"

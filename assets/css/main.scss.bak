@@ -1,0 +1,6 @@
+---
+# Only needed if this is an SCSS file with front matter
+---
+
+@use "minimal-mistakes-jekyll/skins/personal";
+@use "minimal-mistakes-jekyll";
