@@ -12,5 +12,6 @@ description: |
   - Jiachang Zhang, Yufan Zhou, Research projects during semesters, "Detecting Emission Line Point Sources in M31 bulge"
 ---
 
-### I supervised Jiachang Zhang's undergraduate thesis, and we co-authored and published a paper in 2024, for which I served as the corresponding author.
+### (1) I supervised Jiachang Zhang's undergraduate thesis, and we co-authored and published a paper in 2024, for which I served as the corresponding author.
 
+### (2) I supervised Teodora Darie from Alexandru Ioan Cuza University of Iasi, Romania for her Erasmus+ traineship from 2026.02-2026.03.
