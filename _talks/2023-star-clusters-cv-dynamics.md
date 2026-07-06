@@ -2,9 +2,9 @@
 title: "Diagnosing dynamical formation and evolution of cataclysmic variables in globular clusters"
 collection: talks
 type: "Talk"
-permalink: /talks/2023-04-23-star-clusters-cv-dynamics
+permalink: /talks/4/23/2023-star-clusters-cv-dynamics
 venue: "Structure, Formation, and Evolution of Star Clusters"
-date: 2023-04-23
+date: 4/23/2023
 location: "Zhuhai, China"
 ---
 

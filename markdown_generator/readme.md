@@ -7,3 +7,6 @@ These .ipynb files are Jupyter notebook files that convert a TSV containing stru
 By TONG BAO:
 
 everytime for updating the pub, open and update the .bib in files, and then run PubsFromBib.ipynb
+
+for updating the talks, open and update talk.tsv and then run talks.ipynb
+

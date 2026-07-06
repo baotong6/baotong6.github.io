@@ -2,9 +2,9 @@
 title: "Periodic X-ray sources: diagnosing the nature and evolution for exotic binaries in dense environment"
 collection: talks
 type: "Talk"
-permalink: /talks/2023-04-01-periodic-xray-sources-columbia
+permalink: /talks/4/1/2023-periodic-xray-sources-columbia
 venue: "Department of Physics, Columbia University"
-date: 2023-04-01
+date: 4/1/2023
 location: "New York, USA"
 ---
 

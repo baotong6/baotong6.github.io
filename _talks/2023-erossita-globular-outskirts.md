@@ -2,9 +2,9 @@
 title: "Exploring the Outskirts of Globular Clusters with eROSITA"
 collection: talks
 type: "Talk"
-permalink: /talks/2023-01-01-erossita-globular-outskirts
+permalink: /talks/1/1/2023-erossita-globular-outskirts
 venue: " eROSITA Scientific Exploitation Workshop"
-date: 2023-01-01
+date: 1/1/2023
 location: "Suzhou, China"
 ---
 

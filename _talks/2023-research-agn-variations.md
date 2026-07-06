@@ -2,9 +2,9 @@
 title: "Searching for Quasi-periodic Oscillations in Active Galactic Nuclei of the Chandra Deep Field South"
 collection: talks
 type: "Talk"
-permalink: /talks/2023-03-17-research-agn-variations
+permalink: /talks/3/17/2023-research-agn-variations
 venue: "Research on the Variations of Active Galactic Nuclei"
-date: 2023-03-17
+date: 3/17/2023
 location: "Xiamen, China"
 ---
 
