@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Tong Bao/ Astronomer"
+title                    : "Tong Bao | Astronomer"
 title_separator          : "-"
 name                     : &name "Tong Bao"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,7 +24,7 @@ repository               : "https://github.com/baotong6/baotong6.github.io"
 author:
   # Biographic information
   avatar           : "thumbnail.png"
-  name             : "Dr.Tong Bao"
+  name             : "Dr. Tong Bao"
   pronouns         : # example: "she/her"  
   bio              : "On the left"
   location         : "Merate, Italy"
