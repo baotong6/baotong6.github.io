@@ -16,33 +16,59 @@
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
     {% comment %}Publication list formatting{% endcomment %}
-    {% if post.collection == 'publications' %}
-      <p style="margin-bottom:0; font-size:0.95em;">
-        <strong>
-          {{ include.index }}. 
-          <a href="{{ base_path }}{{ post.url }}" rel="permalink" style="color:#007bff; text-decoration:underline;">
-            {{ post.title }}
-          </a>
-        </strong> &nbsp;
-        Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
-        {% if post.paperurl %}
-          <a href="{{ post.paperurl }}" title="Download Paper" style="margin-left:8px;">
-            <img src="/images/icons/download.svg" alt="Download" style="width:24px;height:24px;vertical-align:middle;">
-          </a>
-        {% endif %}
-        {% if post.slidesurl %}
-          <a href="{{ post.slidesurl }}" title="Download Slides" style="margin-left:4px;">
-            <img src="/images/icons/slides.svg" alt="Slides" style="width:24px;height:24px;vertical-align:middle;">
-          </a>
-        {% endif %}
-        {% if post.bibtexurl %}
-          <a href="{{ post.bibtexurl }}" title="Download Bibtex" style="margin-left:4px;">
-            <img src="/images/icons/bibtex.svg" alt="Bibtex" style="width:24px;height:24px;vertical-align:middle;">
-          </a>
-        {% endif %}
-      </p>
-
-    {% else %}
+	  {% if post.collection == 'publications' %}
+	  
+	    <article class="pub-card" itemscope itemtype="http://schema.org/ScholarlyArticle">
+	      <div class="pub-number">
+	        {{ include.index }}
+	      </div>
+	  
+	      <div class="pub-content">
+	        {% if post.paperurl %}
+	          <a class="pub-title" href="{{ post.paperurl }}" target="_blank" rel="noopener">
+	            {{ post.title }}
+	          </a>
+	        {% else %}
+	          <a class="pub-title" href="{{ base_path }}{{ post.url }}" rel="permalink">
+	            {{ post.title }}
+	          </a>
+	        {% endif %}
+	  
+	        <div class="pub-meta">
+	          {% if post.venue %}
+	            <span class="pub-venue">{{ post.venue }}</span>
+	          {% endif %}
+	          <span class="pub-dot">·</span>
+	          <span>{{ post.date | default: "1900-01-01" | date: "%Y" }}</span>
+	  
+	          {% if post.first_author %}
+	            <span class="pub-badge">First author</span>
+	          {% endif %}
+	        </div>
+	  
+	        <div class="pub-actions">
+	          {% if post.paperurl %}
+	            <a class="pub-button" href="{{ post.paperurl }}" target="_blank" rel="noopener">
+	              Paper / ADS
+	            </a>
+	          {% endif %}
+	  
+	          {% if post.slidesurl %}
+	            <a class="pub-button" href="{{ post.slidesurl }}" target="_blank" rel="noopener">
+	              Slides
+	            </a>
+	          {% endif %}
+	  
+	          {% if post.bibtexurl %}
+	            <a class="pub-button" href="{{ post.bibtexurl }}" target="_blank" rel="noopener">
+	              BibTeX
+	            </a>
+	          {% endif %}
+	        </div>
+	      </div>
+	    </article>
+	  
+	  {% else %}
       {% comment %}Other collections: teaching, blog etc.{% endcomment %}
       <h2 class="archive__item-title" itemprop="headline">
         {% if post.link %}
