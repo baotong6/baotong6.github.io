@@ -43,22 +43,119 @@
     "layout/publications"
     
 ;
-/* ===== Custom styles for Tong Bao homepage ===== */
+/* =========================================================
+   Custom style for Tong Bao's academic homepage
+   ========================================================= */
 
-.about-banner {
+/* 全站字体：更现代、更干净 */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue",
+               Arial, "Noto Sans", sans-serif;
+  color: var(--global-text-color);
+}
+
+/* 顶部导航栏：更轻、更现代 */
+.masthead {
+  border-bottom: 1px solid var(--global-border-color);
+  background: var(--global-bg-color);
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.035);
+}
+
+/* 导航栏整体高度和间距 */
+.masthead__inner-wrap {
+  padding-top: 0.75em;
+  padding-bottom: 0.75em;
+}
+
+/* 左上角网站名 */
+.masthead__menu-item--lg a {
+  font-weight: 800 !important;
+  letter-spacing: 0.01em;
+  text-decoration: none !important;
+}
+
+/* 右侧导航文字 */
+.masthead__menu-item a {
+  font-size: 0.95rem;
+  font-weight: 650;
+  text-decoration: none !important;
+  position: relative;
+  padding-bottom: 0.25rem;
+}
+
+/* 导航 hover 下划线动画 */
+.masthead__menu-item a::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -0.15rem;
   width: 100%;
-  max-height: 260px;
+  height: 2px;
+  background: var(--global-link-color);
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.18s ease;
+}
+
+.masthead__menu-item a:hover::after,
+.masthead__menu-item a.active::after {
+  transform: scaleX(1);
+}
+
+/* 顶部银河横幅 */
+.page__hero {
+  margin-bottom: 2.4rem;
+}
+
+.page__hero-image {
+  width: 100%;
+  height: 340px;
   object-fit: cover;
   object-position: center;
   display: block;
-  border-radius: 12px;
-  margin: 0 0 1.8rem 0;
 }
 
-/* 手机端稍微降低图片高度 */
-@media (max-width: 600px) {
-  .about-banner {
-    max-height: 180px;
-    border-radius: 8px;
+/* About 标题更紧凑 */
+.page__title {
+  margin-top: 0;
+  margin-bottom: 1.1rem;
+  font-size: 2.1rem;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+}
+
+/* 正文阅读体验 */
+.page__content p {
+  font-size: 1.03rem;
+  line-height: 1.72;
+  margin-bottom: 1.15rem;
+}
+
+/* 左侧头像更精致 */
+.author__avatar img {
+  box-shadow: 0 4px 18px rgba(0, 0, 0, 0.10);
+}
+
+/* 左侧姓名 */
+.author__name {
+  font-weight: 800;
+  letter-spacing: -0.01em;
+}
+
+/* 手机端适配 */
+@media (max-width: 768px) {
+  .page__hero-image {
+    height: 220px;
   }
+
+  .page__title {
+    font-size: 1.8rem;
+  }
+
+  .page__content p {
+    font-size: 1rem;
+  }
+}
+#theme-toggle a::after {
+  display: none;
 }
