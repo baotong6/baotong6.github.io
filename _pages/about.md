@@ -1,16 +1,17 @@
 ---
+​---
 permalink: /
-title: "About me"
+title: "About"
 author_profile: true
-header:
-  overlay_image: galactic-plane.png
-  overlay_filter: 0.35
-  caption: "X-ray view of the Galactic plane"
 redirect_from: 
-
   - /about/
   - /about.html
+​---
 ---
+
+<img src="{{ '/images/galactic-plane.png' | relative_url }}" 
+     alt="Galactic plane" 
+     class="about-banner">
 
 Welcome! I am a Postdoctoral Researcher at INAF–Osservatorio Astronomico di Brera, working with Dr. Gabriele Ponti. My research focuses on X-ray source populations in the Milky Way, especially compact binaries, globular clusters, and time-domain high-energy phenomena.
 

@@ -41,4 +41,24 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands",
     "layout/publications"
+    
 ;
+/* ===== Custom styles for Tong Bao homepage ===== */
+
+.about-banner {
+  width: 100%;
+  max-height: 260px;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+  border-radius: 12px;
+  margin: 0 0 1.8rem 0;
+}
+
+/* 手机端稍微降低图片高度 */
+@media (max-width: 600px) {
+  .about-banner {
+    max-height: 180px;
+    border-radius: 8px;
+  }
+}
