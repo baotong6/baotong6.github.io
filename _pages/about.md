@@ -2,7 +2,13 @@
 permalink: /
 title: "About me"
 author_profile: true
+header:
+  overlay_image: galactic-plane.png
+  overlay_filter: 0.35
+  caption: "X-ray view of the Galactic plane"
+excerpt: "Postdoctoral researcher in X-ray astrophysics, compact binaries, and time-domain astronomy."
 redirect_from: 
+
   - /about/
   - /about.html
 ---
@@ -15,17 +21,3 @@ Beyond stellar-scale populations, I study time-variable phenomena in active gala
 
 
 
----
-permalink: /
-title: "About me"
-author_profile: true
-header:
-  overlay_image: galactic-plane.png
-  overlay_filter: 0.35
-  caption: "X-ray view of the Galactic plane"
-excerpt: "Postdoctoral researcher in X-ray astrophysics, compact binaries, and time-domain astronomy."
-redirect_from: 
-  - /about/
-  - /about.html
-
----
