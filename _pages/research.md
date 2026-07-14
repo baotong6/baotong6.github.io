@@ -199,9 +199,8 @@ astrophysical populations from which they arise.
 
 The Galactic ridge X-ray emission is produced by a mixture of resolved and
 unresolved source populations. A central goal of my current work is to
-determine how coronal stars, active binaries, non-magnetic cataclysmic
-variables, and magnetic cataclysmic variables contribute at different
-X-ray energies.
+determine how coronal stars, active binaries and cataclysmic
+variables, contribute at different X-ray energies.
 
 </div>
 
@@ -218,38 +217,7 @@ The main questions include:
 - How much of the Galactic ridge can be explained by detected point sources?
 - What populations remain hidden below current survey sensitivity limits?
 
-## Compact binaries and periodic X-ray sources
 
-Periodic variability is a powerful diagnostic of compact systems. Orbital
-modulation, eclipses, white-dwarf spin signals, and neutron-star pulsations
-can reveal the nature of a source even when its optical counterpart is faint
-or uncertain.
-
-My work uses timing information to study:
-
-- X-ray binaries and cataclysmic variables in globular clusters;
-- periodic source populations near the Galactic Center;
-- the influence of dense stellar environments on close-binary formation;
-- the detectability and selection effects of periodic X-ray signals.
-
-## Multiwavelength and multi-mission analysis
-
-Modern population studies require information from several observatories and
-catalogues. My research commonly combines:
-
-- **XMM-Newton and Chandra** for imaging, spectroscopy, and timing;
-- **eROSITA** for wide-area X-ray source samples;
-- **Gaia** for distances and stellar classifications;
-- **JWST and optical/infrared catalogues** for environmental and counterpart information;
-- Bayesian classification and simulation-based selection-function analysis.
-
-## Broader interests
-
-Beyond Galactic stellar populations, I am interested in time-variable
-phenomena associated with active galactic nuclei, including
-quasi-periodic oscillations and episodic eruptions. More broadly, I am
-interested in developing scalable methods for extracting physical
-information from large, heterogeneous astronomical datasets.
 
 ---
 
