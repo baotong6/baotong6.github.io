@@ -34,6 +34,6 @@ I am **Tong Bao**, a postdoctoral researcher in the **Massive Stars Group at the
 
 ## Background
 
-Before moving to Potsdam, I had a wonderful time working with **Dr. Gabriele Ponti** and the **Hot Milk team** at INAF–Osservatorio Astronomico di Brera, Italy. I earned both my B.S. and Ph.D. from **Nanjing University**, China.
+Before moving to Potsdam, I had a wonderful time working with **Dr. Gabriele Ponti** and the **Hot Milk team** at INAF–Osservatorio Astronomico di Brera, Italy. I earned both my B.S. and Ph.D. from **Nanjing University**, China, supervised by **Prof. Zhiyuan Li**.
 
 I welcome conversations about X-ray populations, compact binaries, and stellar feedback. You can reach me at [tbao@astro.physik.uni-potsdam.de](mailto:tbao@astro.physik.uni-potsdam.de).
