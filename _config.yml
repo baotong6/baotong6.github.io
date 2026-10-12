@@ -27,10 +27,10 @@ author:
   name             : "Dr. Tong Bao"
   pronouns         : # example: "she/her"  
   bio              : "On the left"
-  location         : "Merate, Italy"
-  employer         : "INAF-OAB"
+  location         : "Potsdam, Germany"
+  employer         : "University of Potsdam"
   uri              : # URL
-  email            : "tong.bao@inaf.it" 
+  email            : "tbao@astro.physik.uni-potsdam.de" 
 
   # Academic websites
   academia         : # URL
